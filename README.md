@@ -1,4 +1,3 @@
-# pythonscan-app
 # PhytoScan 🍇🍎
 
 Aplicativo mobile de **detecção de oídio em frutas** (uva e maçã) por **visão computacional**. O produtor fotografa a folha ou o fruto, recebe um diagnóstico com nível de confiança, acompanha o histórico e o mapa de focos na lavoura, e obtém recomendações de manejo integrado.
