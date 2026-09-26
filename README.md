@@ -22,7 +22,7 @@ O **PhytoScan** resolve esse gargalo automatizando a detecção precoce a partir
 
 | Papel | Nome | Responsabilidade |
 |---|---|---|
-| **Product Owner (PO)** | Ana Souza | Priorização do backlog, valor de negócio para o produtor |
+| **Product Owner (PO)** | Heloisa Gomes | Priorização do backlog, valor de negócio para o produtor |
 | **Product Manager (PM)** | Bruno Lima | Roadmap, métricas de acurácia e adoção |
 | **Desenvolvedores** | Carla, Diego, Eduarda | Implementação das histórias de usuário |
 
