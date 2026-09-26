@@ -54,7 +54,3 @@ O **PhytoScan** resolve esse gargalo automatizando a detecção precoce a partir
 |---|---|---|
 | Sprint 1 | 15/09 a 29/09 | 14 Story Points |
 | Sprint 2 | 30/09 a 14/10 | 21 Story Points |
-
----
-
-## 🗂️ Estrutura do Repositório
